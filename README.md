@@ -4,7 +4,7 @@ As illustrated by Chart1, in this goal range $10000 to $15000 54,17% were succes
 
 The majority of campaigns, 889 from 1047 had smaller goals that they wanted to raise, $9999 and less.
 
-
+! Chart1.PNG
 
 
 
