@@ -4,7 +4,7 @@ As illustrated by Chart1, in this goal range $10000 to $15000 54,17% were succes
 
 The majority of campaigns, 889 from 1047 had smaller goals that they wanted to raise, $9999 and less.
 
-! Chart1.PNG
+![Chart1](Chart1.PNG)
 
 
 
@@ -17,6 +17,8 @@ Assumption 1. I used the data in tab “Kickstarter” assuming that the amount 
 Assumption 2. There are no cancelled campaigns in this category.
 
 2.	From the chart2 we found out that theater campaigns in general are successful if they launched in May and June and least favorable time to start new campaign would be December.
+
+![Chart2](Chart2.PNG)
 
 
 3.	
